@@ -1,0 +1,2092 @@
+fileFormatVersion: 2
+guid: c255849ccc454de48bd30356feb27f93
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_0
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2666
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cba6ad68b525c4bbe5bcde06964154
+      internalID: 1025715706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_1
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2666
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4f3e9d7b348a42a0d65621cc5163d
+      internalID: -376571041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_2
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 2666
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40daaffd285e5f48a85d5dab18043a7
+      internalID: 1488772176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_3
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2666
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8525a995cc0cb47820a1e502ddda85
+      internalID: -1951755333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_4
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2516
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430587755bd46740a6bba5571648cb9
+      internalID: -118030064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_5
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2516
+        width: 100
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5bd1fad05fbd74f995650112f5cc64
+      internalID: -1857279721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_6
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2516
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5b9a8e8bf98e84d951ea82d55ec62b
+      internalID: -926229194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_7
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2516
+        width: 117
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d41be19d48e2924fbb6b89153e3766d
+      internalID: 1858887592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_8
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2381
+        width: 127
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06acff1bfcdbe7442aa98e13eaaa3f8d
+      internalID: -57211037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_9
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2381
+        width: 129
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a88832e79217f4588efd338e352f7f
+      internalID: 1417735216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_10
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2396
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d623c22ef8c6246ae288b82004bdb6
+      internalID: 855279458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_11
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2381
+        width: 138
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdcd019cb48e60428c65eec53b99ade
+      internalID: -1080548635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2237
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b4b123897cf8b46b90d3887b6eda84
+      internalID: -921984651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_13
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2237
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791deb776f19074aba5fb0a7f9384ca
+      internalID: 1176514406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_14
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2237
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f651916270373c14a9f30e6eff2f27ee
+      internalID: -1199796215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_15
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2237
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7eb6b3f459c54da8c7c6c3cdef3c3
+      internalID: -1185859526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_16
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 2237
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9871630336ac09945845f5a64b37034c
+      internalID: 1859860715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_17
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2237
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3388ffacd0278f49ba33115bb5889ae
+      internalID: 1829928494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2086
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8619098e19b89543a0b1979fe181d9b
+      internalID: 1907987692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_19
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2098
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65197c410e91cf442aacc64dc708faf6
+      internalID: 189819208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_20
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2098
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6440b94a4be2afa4586e4f6188653772
+      internalID: -680404221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_21
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2086
+        width: 109
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2e30155054d0438a5beffcde1d3a9
+      internalID: 161010610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_22
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 2098
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f64234153d114ba7a35dcf051fd7b
+      internalID: 1686344405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_23
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2098
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfbff46939ac28458e7ca6cbc31f496
+      internalID: -1975892106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_24
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1948
+        width: 138
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e1d7daadd88914b88e70e2d0791f16
+      internalID: 752169459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_25
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1944
+        width: 137
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0fb3119dfd6154ebbe8d46fa6aedf8
+      internalID: 1459879273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_26
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1944
+        width: 135
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c9bd600cbf4a24ebbd5390293160d6
+      internalID: 7804404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_27
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1948
+        width: 138
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4378ececf2ec4428d39b3514d88964
+      internalID: 1553369280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_28
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1946
+        width: 127
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55065cea6b048f8469493e36ab3cb3ed
+      internalID: 1680854131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_29
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1946
+        width: 129
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff651d183e2dc3d4aaa9b89f86b7c286
+      internalID: -1821831974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1723
+        width: 126
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca56598d466787b4ea99d29253dceeea
+      internalID: 1815758443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1712
+        width: 134
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8ff2fa5222393448665d1a3d942aa9
+      internalID: 594984523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1719
+        width: 125
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187157396e0cd04ca55619f27b4bbaa
+      internalID: -1636087270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1763
+        width: 109
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3139341761b433b41af69e0793f7b0f1
+      internalID: 2007004517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_34
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1763
+        width: 107
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf824d2974a88b54a9b303377aa432c2
+      internalID: -1490298314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_35
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1763
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2f03651ace08478eff75b9ec92ea9
+      internalID: -187849609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_36
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1763
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddb1be57c113c847be4d6f373b7f3f0
+      internalID: -2136820411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_37
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1769
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d4348c8563e6f4dbe02abc45a7dc12
+      internalID: -964328324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1527
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b400b72f3bf3f744c98e075740165715
+      internalID: -1827310572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1531
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10159b14e37985b49b1b4bc5315ced69
+      internalID: -1743944891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1527
+        width: 121
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babbf484dee297c4488f52202e46a6aa
+      internalID: -1611960540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_41
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1518
+        width: 127
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1129655e3efec584090354a063cb4295
+      internalID: 1605568648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_42
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1518
+        width: 132
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dca0f80e229984abc5aab94fc12a05
+      internalID: 719600301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_43
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1518
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69989e9eb647fd4da77eacad8a72fb5
+      internalID: -2019288925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_44
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1520
+        width: 129
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81eddf26da04964585edf874b98b510
+      internalID: -380430983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_45
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1513
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e361162e7282d4bad6ef9c36f20ab1
+      internalID: -1268678737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1324
+        width: 169
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ba6160dabe8a45b660881b288be80
+      internalID: 329927473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_47
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1324
+        width: 173
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f4c034f2980954891e926dac912004
+      internalID: 390841812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_48
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1320
+        width: 166
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcecf123a686ac458aa9a8bfdbc814e
+      internalID: -413521266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_49
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1328
+        width: 132
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caaa2ac9793bea478c883941f9d4984
+      internalID: 1894424546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_50
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1328
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37928b29ea07ea14da0223163024e64b
+      internalID: 1462770155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_51
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1328
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90140967da159fc4ebf88a057cac79e0
+      internalID: 634790345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_52
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1328
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db8be3dba7b4b8478f50e0927bf3da7
+      internalID: 1750571010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_53
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1335
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d345199408f944d95923afc0d9b372
+      internalID: 1880419597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_54
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1147
+        width: 148
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a0c097c56233143ba332e80d2da24f
+      internalID: 453576391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_55
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1147
+        width: 147
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275ee52a251f7364cb40a11684657a6c
+      internalID: -290414724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_56
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1147
+        width: 147
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236b2887427a5b478acf0760d457ce1
+      internalID: -986284280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_57
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1147
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d43737ed2cf3845ba86c3012660526
+      internalID: -536134354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_58
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1147
+        width: 121
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714a69d98eb9254284ef6a8bbf2851a
+      internalID: 1160941902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_59
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1147
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f10f79a3518ff046827840251b72e53
+      internalID: 1893251853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_60
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 974
+        width: 148
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11303a3531ef6474e87d58d70d291677
+      internalID: 1088165064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_61
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 974
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641ef4b3efe55294da3780be7bae30db
+      internalID: -1472560818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_62
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 974
+        width: 141
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bec12f1aa178b4da6d634c727b157b
+      internalID: 1862672816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_63
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 974
+        width: 148
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b990931b7fdcc4d823257582737ee6
+      internalID: 465554200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_64
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 974
+        width: 121
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b748220533cd5a49b4b47ae4bee5e00
+      internalID: 1849951776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_65
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 974
+        width: 103
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b38e63c9baaee42ba27140a3abc42c
+      internalID: 290864942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_66
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 812
+        width: 145
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec28105f4e12d47a16870e0155d304
+      internalID: -771269340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_67
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 812
+        width: 137
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1e0e8acbdbb5f4e8669beece6f056a
+      internalID: -1946912519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_68
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 812
+        width: 133
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b01ce5cda5c6cc43beee713e609a9ff
+      internalID: -1027677926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_69
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 812
+        width: 132
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b57245dda8be47adff5f59d5a9a6f
+      internalID: 246403763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_70
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 812
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb6e616d2e9a704997a0840b4ee4225
+      internalID: 1997633612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_71
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 812
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdacd443c90830e4e82a49e4416212b8
+      internalID: 1312337025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_72
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 563
+        width: 101
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08682286c6137394d81745ccffa11a17
+      internalID: -1225164606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_73
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 556
+        width: 117
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d37fd7a76a6844a345fb4db65d4f7
+      internalID: 2116547538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_74
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 613
+        width: 105
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13965c095c5a974bb064a83892ff35c
+      internalID: -1969058361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_75
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 613
+        width: 98
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dfe6fde3f586046bd0e83bbced3b9c
+      internalID: 1946689512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_76
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 608
+        width: 139
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf2697b21efd8c418c1601792487398
+      internalID: 1297593392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_77
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 376
+        width: 100
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d296df8353bdf8f4bb4ff4e4b603f1db
+      internalID: -1987705888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_78
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 376
+        width: 109
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be1faa0ea5e5b4b92752d4b2e97f65
+      internalID: 431042115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_79
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 360
+        width: 117
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5a8db2e76882447b92e38848f15963
+      internalID: 1143133095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_80
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 360
+        width: 122
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6583d47500e664591b17fdb097f551
+      internalID: -1944851596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_81
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 367
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5bcd6a035fef94b8666cf834d4d4b2
+      internalID: -1994511290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_82
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 167
+        width: 169
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e8f4f9b65005244acfba50060cfd7d
+      internalID: 892568898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_83
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 167
+        width: 173
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2b7ca4b321c540a739085a78dfc58
+      internalID: 1151594977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_84
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 175
+        width: 106
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40908a52deec0a04788df4758fa1bb91
+      internalID: -689827102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_85
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 175
+        width: 105
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e799a6ea1fdb4691d05bfccc1c2fe
+      internalID: 24765424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_86
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 168
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37e92b70d4ccfd468ef8a95c7698e29
+      internalID: -1726223138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_87
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 54
+        width: 151
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d555c0f8223046a492ed19ce58822
+      internalID: 161751399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Wormwood12131231231_88
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 54
+        width: 134
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3998c7b17b175a74b82dbe09fb338192
+      internalID: 2036494192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Children of Mana - Wormwood12131231231_30: 1815758443
+      DS DSi - Children of Mana - Wormwood12131231231_31: 594984523
+      DS DSi - Children of Mana - Wormwood12131231231_20: -680404221
+      DS DSi - Children of Mana - Wormwood12131231231_10: 855279458
+      DS DSi - Children of Mana - Wormwood12131231231_17: 1829928494
+      DS DSi - Children of Mana - Wormwood12131231231_80: -1944851596
+      DS DSi - Children of Mana - Wormwood12131231231_63: 465554200
+      DS DSi - Children of Mana - Wormwood12131231231_24: 752169459
+      DS DSi - Children of Mana - Wormwood12131231231_83: 1151594977
+      DS DSi - Children of Mana - Wormwood12131231231_52: 1750571010
+      DS DSi - Children of Mana - Wormwood12131231231_43: -2019288925
+      DS DSi - Children of Mana - Wormwood12131231231_55: -290414724
+      DS DSi - Children of Mana - Wormwood12131231231_7: 1858887592
+      DS DSi - Children of Mana - Wormwood12131231231_4: -118030064
+      DS DSi - Children of Mana - Wormwood12131231231_13: 1176514406
+      DS DSi - Children of Mana - Wormwood12131231231_2: 1488772176
+      DS DSi - Children of Mana - Wormwood12131231231_18: 1907987692
+      DS DSi - Children of Mana - Wormwood12131231231_66: -771269340
+      DS DSi - Children of Mana - Wormwood12131231231_35: -187849609
+      DS DSi - Children of Mana - Wormwood12131231231_16: 1859860715
+      DS DSi - Children of Mana - Wormwood12131231231_41: 1605568648
+      DS DSi - Children of Mana - Wormwood12131231231_60: 1088165064
+      DS DSi - Children of Mana - Wormwood12131231231_38: -1827310572
+      DS DSi - Children of Mana - Wormwood12131231231_85: 24765424
+      DS DSi - Children of Mana - Wormwood12131231231_47: 390841812
+      DS DSi - Children of Mana - Wormwood12131231231_74: -1969058361
+      DS DSi - Children of Mana - Wormwood12131231231_28: 1680854131
+      DS DSi - Children of Mana - Wormwood12131231231_12: -921984651
+      DS DSi - Children of Mana - Wormwood12131231231_62: 1862672816
+      DS DSi - Children of Mana - Wormwood12131231231_3: -1951755333
+      DS DSi - Children of Mana - Wormwood12131231231_8: -57211037
+      DS DSi - Children of Mana - Wormwood12131231231_59: 1893251853
+      DS DSi - Children of Mana - Wormwood12131231231_56: -986284280
+      DS DSi - Children of Mana - Wormwood12131231231_70: 1997633612
+      DS DSi - Children of Mana - Wormwood12131231231_11: -1080548635
+      DS DSi - Children of Mana - Wormwood12131231231_79: 1143133095
+      DS DSi - Children of Mana - Wormwood12131231231_65: 290864942
+      DS DSi - Children of Mana - Wormwood12131231231_67: -1946912519
+      DS DSi - Children of Mana - Wormwood12131231231_46: 329927473
+      DS DSi - Children of Mana - Wormwood12131231231_64: 1849951776
+      DS DSi - Children of Mana - Wormwood12131231231_26: 7804404
+      DS DSi - Children of Mana - Wormwood12131231231_77: -1987705888
+      DS DSi - Children of Mana - Wormwood12131231231_48: -413521266
+      DS DSi - Children of Mana - Wormwood12131231231_36: -2136820411
+      DS DSi - Children of Mana - Wormwood12131231231_42: 719600301
+      DS DSi - Children of Mana - Wormwood12131231231_61: -1472560818
+      DS DSi - Children of Mana - Wormwood12131231231_57: -536134354
+      DS DSi - Children of Mana - Wormwood12131231231_27: 1553369280
+      DS DSi - Children of Mana - Wormwood12131231231_22: 1686344405
+      DS DSi - Children of Mana - Wormwood12131231231_87: 161751399
+      DS DSi - Children of Mana - Wormwood12131231231_0: 1025715706
+      DS DSi - Children of Mana - Wormwood12131231231_33: 2007004517
+      DS DSi - Children of Mana - Wormwood12131231231_14: -1199796215
+      DS DSi - Children of Mana - Wormwood12131231231_34: -1490298314
+      DS DSi - Children of Mana - Wormwood12131231231_23: -1975892106
+      DS DSi - Children of Mana - Wormwood12131231231_9: 1417735216
+      DS DSi - Children of Mana - Wormwood12131231231_37: -964328324
+      DS DSi - Children of Mana - Wormwood12131231231_53: 1880419597
+      DS DSi - Children of Mana - Wormwood12131231231_75: 1946689512
+      DS DSi - Children of Mana - Wormwood12131231231_58: 1160941902
+      DS DSi - Children of Mana - Wormwood12131231231_21: 161010610
+      DS DSi - Children of Mana - Wormwood12131231231_19: 189819208
+      DS DSi - Children of Mana - Wormwood12131231231_29: -1821831974
+      DS DSi - Children of Mana - Wormwood12131231231_25: 1459879273
+      DS DSi - Children of Mana - Wormwood12131231231_71: 1312337025
+      DS DSi - Children of Mana - Wormwood12131231231_15: -1185859526
+      DS DSi - Children of Mana - Wormwood12131231231_6: -926229194
+      DS DSi - Children of Mana - Wormwood12131231231_51: 634790345
+      DS DSi - Children of Mana - Wormwood12131231231_44: -380430983
+      DS DSi - Children of Mana - Wormwood12131231231_5: -1857279721
+      DS DSi - Children of Mana - Wormwood12131231231_68: -1027677926
+      DS DSi - Children of Mana - Wormwood12131231231_86: -1726223138
+      DS DSi - Children of Mana - Wormwood12131231231_32: -1636087270
+      DS DSi - Children of Mana - Wormwood12131231231_1: -376571041
+      DS DSi - Children of Mana - Wormwood12131231231_84: -689827102
+      DS DSi - Children of Mana - Wormwood12131231231_78: 431042115
+      DS DSi - Children of Mana - Wormwood12131231231_40: -1611960540
+      DS DSi - Children of Mana - Wormwood12131231231_69: 246403763
+      DS DSi - Children of Mana - Wormwood12131231231_73: 2116547538
+      DS DSi - Children of Mana - Wormwood12131231231_49: 1894424546
+      DS DSi - Children of Mana - Wormwood12131231231_72: -1225164606
+      DS DSi - Children of Mana - Wormwood12131231231_88: 2036494192
+      DS DSi - Children of Mana - Wormwood12131231231_39: -1743944891
+      DS DSi - Children of Mana - Wormwood12131231231_54: 453576391
+      DS DSi - Children of Mana - Wormwood12131231231_82: 892568898
+      DS DSi - Children of Mana - Wormwood12131231231_45: -1268678737
+      DS DSi - Children of Mana - Wormwood12131231231_81: -1994511290
+      DS DSi - Children of Mana - Wormwood12131231231_50: 1462770155
+      DS DSi - Children of Mana - Wormwood12131231231_76: 1297593392
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
